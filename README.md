@@ -6,7 +6,9 @@
 
 </div>
 
-I'm a senior backend engineer who spends most days writing specs, skills, and evals, and managing a swarm of agents. Some are Claude. Some live in Cursor. Some live on OpenRouter. They do the typing. I do the thinking, the taste, and the evals.
+I'm a senior backend engineer who barely writes code by hand anymore.
+
+Most days I write specs, skills, and evals, and orchestrate a swarm of agents. Some are Claude. Some live in Cursor. Some live on OpenRouter. They do the typing. I do the thinking, the taste, and the evals.
 
 ## What I'm Doing Right Now
 
@@ -20,9 +22,9 @@ I'm a senior backend engineer who spends most days writing specs, skills, and ev
 flowchart LR
     Me([me])
     subgraph Agents[the swarm]
-      C[Claude<br/>spec + code]
-      K[Cursor<br/>in editor]
-      O[OpenRouter<br/>specialist models]
+      C[Claude]
+      K[Cursor]
+      O[OpenRouter]
     end
     Spec[spec + skills + evals]
     Diff[diff]
@@ -77,7 +79,7 @@ A few things I've learned.
 
 The thread through all of it. Data heavy backends, distributed systems, and a healthy paranoia about correctness.
 
-## A Small Example Of What I Mean By "Evals Over Vibes"
+## How I Actually Pick Models
 
 Picking a model based on a 5 prompt spot check feels good and tells you almost nothing. A workflow I actually run.
 
