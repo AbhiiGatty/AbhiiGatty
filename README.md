@@ -1,48 +1,21 @@
 <div align="center">
 
-# Abhishek P
-
-### Human in Tech
-
-**Fast by design. Detailed by obsession.**
-
-I build reliable backend systems, full-stack products, and AI enabled tools.
-
-<br/>
-
-<a href="https://www.abhiigatty.com">abhiigatty.com</a>
-·
-<a href="https://twitter.com/abhiigatty_">𝕏 @abhiigatty_</a>
-·
-<a href="https://github.com/AbhiiGatty">GitHub</a>
-·
-<a href="https://www.linkedin.com/in/abhiigatty">LinkedIn</a>
-·
-<a href="https://www.instagram.com/abhiigatty">Instagram</a>
-·
-<a href="mailto:abhiigatty@gmail.com">Email</a>
-
-<br/>
+## Hi! I'm Abhishek P, alias abhiigatty. [Human in Tech](https://abhiigatty.com). 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=111111&center=true&vCenter=true&width=820&lines=Backend+engineer+who+loves+to+build+and+scale.;AI+forward.+Product+minded.+Always+shipping.;Orchestrating+a+swarm+of+agents.+Moving+fast%2C+together.;From+spec+to+scale%2C+with+evals+all+the+way." alt="typing"/>
-
-</div>
-
----
-
-## hi, I'm Abhishek 👋
 
 I'm a senior backend engineer who loves products, infrastructure, and solving puzzles. These days most of my day goes into writing specs, skills, and evals, and managing a swarm of agents. Some are Claude. Some live in Cursor. Some live on OpenRouter. They do the typing. I do the thinking.
 
 I sit in the loop. I have opinions about taste. I trust evals more than vibes.
 
-## what I'm doing right now
+## What I'm Doing Right Now
 
 * Working at **[@asymmetric-labs-ai](https://github.com/asymmetric-labs-ai)**.
+* Building side projects with friends and builders that solve problems, provide value and bring in revenue
 * Part of the **[Sahyadri Open Source Community (so-sc)](https://github.com/so-sc)**.
 * Living in Bangalore, India. UTC +05:30.
 
-## the swarm I work with
+## The Swarm I Work With
 
 ```mermaid
 flowchart LR
@@ -87,30 +60,30 @@ A few things I've learned from doing it this way for a while.
 * **Taste is the bottleneck.** Anyone can generate a thousand lines of code now. Far fewer people can tell you which fifty lines are worth keeping. That's the job.
 * **Specs beat prompts.** A good spec survives a model swap. A clever prompt usually doesn't.
 
-## the toolkit I actually pull from
+## The Toolkit I Actually Pull From
 
-**agents and AI**
+**Agents and AI**
 Claude · Claude Code · Cursor · OpenRouter · OpenAI
 
-**languages and frameworks**
+**Languages and Frameworks**
 Python · Go · Django · Flask · FastAPI · Gin · AsyncIO
 
-**databases and caching**
+**Databases and Caching**
 PostgreSQL · MySQL · SQLite · Redis · AWS DynamoDB · PgBouncer
 
-**queues, async, and realtime**
+**Queues, Async, and Realtime**
 RabbitMQ · Celery · NGINX · uWSGI · Gunicorn · WebRTC · MQTT
 
-**cloud and infra**
+**Cloud and Infra**
 AWS (EC2, Lambda, S3, IoT Core, Kinesis, SNS, SES, SQS) · DigitalOcean · Docker · Kubernetes · Jenkins · ArgoCD · Rancher · Cloudflare · Prometheus · Kibana · Elasticsearch
 
-**auth, comms, and SaaS I've shipped against**
+**Auth, Comms, and SaaS I've Shipped Against**
 Keycloak · OAuth 2.0 · OpenID · Twilio · SendGrid · Mailgun · Braze · Zendesk · Swagger · Postman
 
-**version control and shell**
+**Version Control and Shell**
 Git · GitHub · GitLab · Linux · Bash · Vim · VS Code
 
-## where I split my time these days
+## Where I Split My Time These Days
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.75}, "themeVariables": {"pie1": "#111111", "pie2": "#333333", "pie3": "#666666", "pie4": "#999999", "pie5": "#cccccc", "pieTitleTextSize": "16px", "pieSectionTextSize": "13px", "pieSectionTextColor": "#ffffff", "pieOuterStrokeColor": "#000000"}}}%%
@@ -123,7 +96,7 @@ pie showData
     "still writing some code by hand" : 5
 ```
 
-## what I worked on before this
+## What I Worked On Before This
 
 | company | role | the gist |
 |---|---|---|
@@ -134,7 +107,7 @@ pie showData
 
 The thread through all of it. Data heavy backends, distributed systems, and a healthy paranoia about correctness. Domain-driven design, SOC 2, OEM portals, subscription systems, and a lot of glue between hardware, cloud, and the user.
 
-## things I care about
+## Things I Care About
 
 | | | |
 |---|---|---|
@@ -143,7 +116,7 @@ The thread through all of it. Data heavy backends, distributed systems, and a he
 
 **AI product craft.** The interesting gap right now is between "the demo works" and "users trust it every day." Most of that gap is evals, taste, and a lot of patient iteration.
 
-## a small example of what I mean by "evals over vibes"
+## A Small Example Of What I Mean By "Evals Over Vibes"
 
 Picking a model based on a 5 prompt spot check feels good and tells you almost nothing. A workflow I actually run.
 
@@ -173,7 +146,7 @@ It's slower than vibing. It also stops me shipping regressions I'd otherwise mis
 
 The tradeoff. Writing the eval set is the most annoying part of the job. I keep doing it because every time I skip it, I regret it within a week.
 
-## github, in numbers
+## GitHub, In Numbers
 
 <div align="center">
 
@@ -187,7 +160,7 @@ The tradeoff. Writing the eval set is the most annoying part of the job. I keep 
 
 </div>
 
-## get in touch
+## Get In Touch
 
 I'm always up for new opportunities. If you want to talk about AI workflows, evals, product taste, or open source, pick any of the below.
 
