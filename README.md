@@ -129,8 +129,6 @@ Git · GitHub · GitLab · Linux · Bash · Vim · VS Code
 
 </details>
 
-<br/>
-
 ### Where I've Worked
 
 | company | role | the gist |
