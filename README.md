@@ -1,29 +1,37 @@
-<div align="center">
+<header align="center">
 
 ## Hi! I'm Abhishek P, alias [abhiigatty](https://abhiigatty.com). Human in Tech. 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=111111&center=true&vCenter=true&width=820&lines=Backend+engineer+who+loves+to+build+and+scale.;AI+forward.+Product+minded.+Always+shipping.;Orchestrating+a+swarm+of+agents.+Moving+fast%2C+together.;From+spec+to+scale%2C+with+evals+all+the+way." alt="typing"/>
 
+</header>
+
 I'm a senior backend engineer who loves products, infrastructure, and solving puzzles. These days most of my day goes into writing specs, skills, and evals, and managing a swarm of agents. Some are Claude. Some live in Cursor. Some live on OpenRouter. They do the typing. I do the thinking.
 
 I sit in the loop. I have opinions about taste. I trust evals more than vibes.
 
+<section>
+
 ## What I'm Doing Right Now
 
 * Working at **[@asymmetric-labs-ai](https://github.com/asymmetric-labs-ai)**.
-* Building side projects with friends and builders that solve problems, provide value and bring in revenue
+* Building side projects with friends and builders that solve problems, provide value, and bring in revenue.
 * Part of the **[Sahyadri Open Source Community (so-sc)](https://github.com/so-sc)**.
 * Living in Bangalore, India. UTC +05:30.
 
-## The Swarm I Work With
+</section>
+
+<section>
+
+## Current Workflow
 
 ```mermaid
 flowchart LR
     Me([me])
     subgraph Agents[the swarm]
-      C[Claude<br/>spec + code]
-      K[Cursor<br/>in editor]
-      O[OpenRouter<br/>specialist models]
+      C[Claude]
+      K[Cursor]
+      O[OpenRouter]
     end
     Spec[spec + skills + evals]
     Diff[diff]
@@ -51,52 +59,77 @@ flowchart LR
     class Ship ship
 ```
 
-The agents are fast. The eval is what makes me trust the diff. The taste is what decides if it ships at all.
+I write the spec. The agents draft the diff. I read it, run the eval suite, and decide if it ships. The agents are fast. The eval is what makes me trust the diff. The taste is what decides if it ships at all.
 
-A few things I've learned from doing it this way for a while.
+Most of my hours go into writing specs and skills, reading agent diffs, and running evals. A small slice still goes into product thinking and the occasional bit of code by hand.
+
+</section>
+
+<section>
+
+## Current Learning In The AI Development Age
 
 * **Evals are the new tests.** Unit tests check that a function does what you wrote. Evals check that the system does what you *meant*. If you can't measure it, you can't trust it, and you definitely can't ship it.
 * **Backend reflexes still earn their keep.** Knowing how a queue, a cache, or a slow query actually behaves is the fastest way to spot when a model is confidently wrong.
 * **Taste is the bottleneck.** Anyone can generate a thousand lines of code now. Far fewer people can tell you which fifty lines are worth keeping. That's the job.
 * **Specs beat prompts.** A good spec survives a model swap. A clever prompt usually doesn't.
 
-## The Toolkit I Actually Pull From
+</section>
 
-**Agents and AI**
+<section>
+
+## Current Toolkit And Experience With Technologies
+
+<details>
+<summary><b>Agents and AI</b></summary>
+
 Claude · Claude Code · Cursor · OpenRouter · OpenAI
 
-**Languages and Frameworks**
+</details>
+
+<details>
+<summary><b>Languages and Frameworks</b></summary>
+
 Python · Go · Django · Flask · FastAPI · Gin · AsyncIO
 
-**Databases and Caching**
+</details>
+
+<details>
+<summary><b>Databases and Caching</b></summary>
+
 PostgreSQL · MySQL · SQLite · Redis · AWS DynamoDB · PgBouncer
 
-**Queues, Async, and Realtime**
+</details>
+
+<details>
+<summary><b>Queues, Async, and Realtime</b></summary>
+
 RabbitMQ · Celery · NGINX · uWSGI · Gunicorn · WebRTC · MQTT
 
-**Cloud and Infra**
+</details>
+
+<details>
+<summary><b>Cloud and Infra</b></summary>
+
 AWS (EC2, Lambda, S3, IoT Core, Kinesis, SNS, SES, SQS) · DigitalOcean · Docker · Kubernetes · Jenkins · ArgoCD · Rancher · Cloudflare · Prometheus · Kibana · Elasticsearch
 
-**Auth, Comms, and SaaS I've Shipped Against**
+</details>
+
+<details>
+<summary><b>Auth, Comms, and SaaS I've Shipped Against</b></summary>
+
 Keycloak · OAuth 2.0 · OpenID · Twilio · SendGrid · Mailgun · Braze · Zendesk · Swagger · Postman
 
-**Version Control and Shell**
+</details>
+
+<details>
+<summary><b>Version Control and Shell</b></summary>
+
 Git · GitHub · GitLab · Linux · Bash · Vim · VS Code
 
-## Where I Split My Time These Days
+</details>
 
-```mermaid
-%%{init: {"pie": {"textPosition": 0.75}, "themeVariables": {"pie1": "#111111", "pie2": "#333333", "pie3": "#666666", "pie4": "#999999", "pie5": "#cccccc", "pieTitleTextSize": "16px", "pieSectionTextSize": "13px", "pieSectionTextColor": "#ffffff", "pieOuterStrokeColor": "#000000"}}}%%
-pie showData
-    title where the hours actually go
-    "writing specs and skills" : 35
-    "reading agent diffs" : 25
-    "writing and running evals" : 20
-    "product thinking" : 15
-    "still writing some code by hand" : 5
-```
-
-## What I Worked On Before This
+### Where I've Worked
 
 | company | role | the gist |
 |---|---|---|
@@ -107,6 +140,10 @@ pie showData
 
 The thread through all of it. Data heavy backends, distributed systems, and a healthy paranoia about correctness. Domain-driven design, SOC 2, OEM portals, subscription systems, and a lot of glue between hardware, cloud, and the user.
 
+</section>
+
+<section>
+
 ## Things I Care About
 
 | | | |
@@ -116,7 +153,11 @@ The thread through all of it. Data heavy backends, distributed systems, and a he
 
 **AI product craft.** The interesting gap right now is between "the demo works" and "users trust it every day." Most of that gap is evals, taste, and a lot of patient iteration.
 
-## A Small Example Of What I Mean By "Evals Over Vibes"
+</section>
+
+<section>
+
+## How I Actually Pick Models
 
 Picking a model based on a 5 prompt spot check feels good and tells you almost nothing. A workflow I actually run.
 
@@ -128,23 +169,13 @@ Picking a model based on a 5 prompt spot check feels good and tells you almost n
 # 5. only then decide
 ```
 
-A made-up but representative comparison from a recent model swap.
-
-```mermaid
-%%{init: {"themeVariables": {"xyChart": {"backgroundColor": "transparent", "titleColor": "#111111", "xAxisLabelColor": "#111111", "yAxisLabelColor": "#111111", "xAxisTitleColor": "#111111", "yAxisTitleColor": "#111111", "plotColorPalette": "#111111, #999999"}}}}%%
-xychart-beta
-    title "candidate vs incumbent on the same eval set"
-    x-axis ["pass rate %", "p50 ms", "p95 ms", "cost / 1k runs $"]
-    y-axis "value" 0 --> 100
-    bar [62, 38, 71, 44]
-    bar [78, 22, 49, 28]
-```
-
-Solid bar is the candidate. Light bar is the incumbent.
-
 It's slower than vibing. It also stops me shipping regressions I'd otherwise miss until a user finds them.
 
-The tradeoff. Writing the eval set is the most annoying part of the job. I keep doing it because every time I skip it, I regret it within a week.
+The tradeoff: writing the eval set is the most annoying part of the job. I keep doing it because every time I skip it, I regret it within a week.
+
+</section>
+
+<section>
 
 ## GitHub, In Numbers
 
@@ -160,28 +191,12 @@ The tradeoff. Writing the eval set is the most annoying part of the job. I keep 
 
 </div>
 
-## Get In Touch
+</section>
 
-I'm always up for new opportunities. If you want to talk about AI workflows, evals, product taste, or open source, pick any of the below.
-
-<div align="center">
-
-<a href="https://www.abhiigatty.com">abhiigatty.com</a>
-·
-<a href="https://twitter.com/abhiigatty_">𝕏</a>
-·
-<a href="https://github.com/AbhiiGatty">GitHub</a>
-·
-<a href="https://www.linkedin.com/in/abhiigatty">LinkedIn</a>
-·
-<a href="https://www.instagram.com/abhiigatty">Instagram</a>
-·
-<a href="mailto:abhiigatty@gmail.com">Email</a>
-
-</div>
+<footer align="center">
 
 ---
 
-<div align="center">
-<sub>Bangalore, India · UTC +05:30</sub>
-</div>
+[abhiigatty.com](https://www.abhiigatty.com) · [𝕏](https://twitter.com/abhiigatty_) · [GitHub](https://github.com/AbhiiGatty) · [LinkedIn](https://www.linkedin.com/in/abhiigatty) · [Instagram](https://www.instagram.com/abhiigatty) · [Email](mailto:abhiigatty@gmail.com)
+
+</footer>
