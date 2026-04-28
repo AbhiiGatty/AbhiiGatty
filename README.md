@@ -54,19 +54,17 @@ flowchart LR
 
 The agents are fast. The eval is what makes me trust the diff. The taste is what decides if it ships at all.
 
-A few things I've learned.
-
 * **Evals are the new tests.** Unit tests check that a function does what you wrote. Evals check that the system does what you *meant*.
 * **Taste is the bottleneck.** Anyone can generate a thousand lines of code now. Far fewer people can tell you which fifty lines are worth keeping.
 * **Specs beat prompts.** A good spec survives a model swap. A clever prompt usually doesn't.
 
 ## The Toolkit
 
-**Agents.** Claude · Claude Code · Cursor · OpenRouter · OpenAI
+**Agents:** Claude · Claude Code · Cursor · OpenRouter · OpenAI
 
-**Backend.** Python, Go, Django, FastAPI · Postgres, Redis, DynamoDB · RabbitMQ, Celery, AsyncIO
+**Backend:** Python, Go, Django, FastAPI · Postgres, Redis, DynamoDB · RabbitMQ, Celery, AsyncIO
 
-**Infra.** AWS, Docker, Kubernetes, Jenkins, ArgoCD, Cloudflare, Prometheus, Elasticsearch
+**Infra:** AWS, Docker, Kubernetes, Jenkins, ArgoCD, Cloudflare, Prometheus, Elasticsearch
 
 ## What I Worked On Before This
 
@@ -93,7 +91,7 @@ Picking a model based on a 5 prompt spot check feels good and tells you almost n
 
 It's slower than vibing. It also stops me shipping regressions I'd otherwise miss until a user finds them.
 
-The tradeoff. Writing the eval set is the most annoying part of the job. I keep doing it because every time I skip it, I regret it within a week.
+The tradeoff: writing the eval set is the most annoying part of the job. I keep doing it because every time I skip it, I regret it within a week.
 
 ---
 
