@@ -24,7 +24,7 @@ I build reliable backend systems, full-stack products, and AI enabled tools.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=111111&center=true&vCenter=true&width=720&lines=Senior+backend+engineer.+Now+a+product+person.;I+write+specs%2C+skills%2C+and+evals.;The+agents+do+the+typing.+I+do+the+thinking.;Evals+%3E+vibes." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=111111&center=true&vCenter=true&width=820&lines=Backend+engineer+who+loves+to+build+and+scale.;AI+forward.+Product+minded.+Always+shipping.;Orchestrating+a+swarm+of+agents.+Moving+fast%2C+together.;From+spec+to+scale%2C+with+evals+all+the+way." alt="typing"/>
 
 </div>
 
