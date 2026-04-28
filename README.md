@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi! I'm Abhishek P, alias abhiigatty. [Human in Tech](https://abhiigatty.com). 👋
+## Hi! I'm Abhishek P, alias [abhiigatty](https://abhiigatty.com). Human in Tech. 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=111111&center=true&vCenter=true&width=820&lines=Backend+engineer+who+loves+to+build+and+scale.;AI+forward.+Product+minded.+Always+shipping.;Orchestrating+a+swarm+of+agents.+Moving+fast%2C+together.;From+spec+to+scale%2C+with+evals+all+the+way." alt="typing"/>
 
